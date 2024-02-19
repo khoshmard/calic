@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 from skimage import data,io
 import matplotlib.pyplot as plt
 
